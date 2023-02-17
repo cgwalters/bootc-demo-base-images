@@ -39,7 +39,6 @@ packages:
   # Container tooling
   - crun
   - podman
-  - runc
   - skopeo
   - toolbox
   # nvme-cli for managing nvme disks
