@@ -1,3 +1,10 @@
+# THIS PROJECT HAS MIGRATED TO https://gitlab.com/cgwalters-playground/bootc-demo-base-images
+
+THIS PROJECT HAS MIGRATED TO https://gitlab.com/cgwalters-playground/bootc-demo-base-images
+
+Original contents follow:
+---
+
 # Demonstration base images for use with bootc
 
 This repository contains "base images" suitable for use with [bootc](https://github.com/containers/bootc).
